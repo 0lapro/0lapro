@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development.
 - 🌱 ...
 - 💞️ ...
-- 📫 How to reach me ... <0laprogrmr@gmail.com>
+- 📫 How to reach me ... <olabash16@yahoo.co.uk>
 
 <!---
 0lapro/0lapro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
